@@ -36,7 +36,7 @@ Once this is done, you can start the app with:
 
 Once all the formatting and data input is finalised, run `npm run build`. This will create a dedicated build folder.
 
-## 5. Host Resume Online
+## 5. Host Website Online
 
 1) Open the build folder in the finder screen
 2) Go to <a href="https://www.netlify.com/">Netlify</a> and set up a profile
